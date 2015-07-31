@@ -13,6 +13,34 @@ Access the administrative interface by <a href="http://www.hillsboroughcdms.org/
 
 [Notify Hillsborough County Web Requests](mailto:WebRequest@hillsboroughcounty.org) that you have registered. **Be sure to include the email address of your Google account in the message body as well as what features of the site you are trying to access**.
 
+## Media Contacts
+
+<a href="http://www.hillsboroughcdms.org/employees" target="_blank">http://www.hillsboroughcdms.org/employees</a>
+
+### Adding a New Media Contact
+Once logged in (see [prerequisites](https://github.com/Commbocc/hccdms#prerequisites)), browse to the <a href="http://www.hillsboroughcdms.org/employees" target="_blank">Media Contacts</a> page. In the upper right corner, adjacent to the page title, click "New Employee" to begin adding an employee to the database.
+
+Fill out the form with the necessary information.
+
+Click the "Create Employee" button below the form to save the employee to the database.
+
+### Sorting Media Contacts
+Once logged in (see [prerequisites](https://github.com/Commbocc/hccdms#prerequisites)), browse to the <a href="http://www.hillsboroughcdms.org/employees" target="_blank">Media Contacts</a> page. In the upper right corner, adjacent to the page title, click "Sort Employees" to launch the sort modal.
+
+Drag and drop the employees to the desired order. Click the "Close" button to close the modal dialog.
+
+### Editing a New Media Contact
+Once logged in (see [prerequisites](https://github.com/Commbocc/hccdms#prerequisites)), browse to the <a href="http://www.hillsboroughcdms.org/employees" target="_blank">Media Contacts</a> page. In the far left column of the Employees table select the pencil icon next to the employee you wish to edit.
+
+Fill out the form with any desired changes.
+
+Click the "Update Employee" button below the form to save the employee to the database.
+
+### Removing a New Media Contact
+Once logged in (see [prerequisites](https://github.com/Commbocc/hccdms#prerequisites)), browse to the <a href="http://www.hillsboroughcdms.org/employees" target="_blank">Media Contacts</a> page. In the far left column of the Employees table select the pencil icon next to the employee you wish to edit.
+
+Click the "Destroy" link below the form to delete the employee from the database. A prompt will display asking you to confirm this action.
+
 ## Grant Awards & Proposals
 
 <a href="http://www.hillsboroughcdms.org/gap/grants" target="_blank">http://www.hillsboroughcdms.org/gap/grants</a>
@@ -35,9 +63,6 @@ Click the "Update Grant" button below the form to save the Grant to the database
 
 ### Removing an Existing Grant
 Once logged in (see [prerequisites](https://github.com/Commbocc/hccdms#prerequisites)), browse to the <a href="http://www.hillsboroughcdms.org/gap/grants" target="_blank">Grant Awards & Proposals</a> page. In the far right column of the Grants table select the "Destroy" link of the Grant you wish to delete. A prompt will display asking you to confirm this action.
-
-## Employees
-Coming soon.
 
 ## Farmer's Markets
 Coming soon.
