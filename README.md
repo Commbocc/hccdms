@@ -52,17 +52,17 @@ Fill out the form with the necessary information.
 
 ![GAP Grant Form](https://raw.githubusercontent.com/Commbocc/hccdms/master/images/gap-grant-form.png "GAP Grant Form")
 
-Click the "Create Grant" button below the form to save the Grant to the database.
+Click the "Create Grant" button below the form to save the grant to the database.
 
 ### Editing an Existing Grant
-Once logged in (see [prerequisites](https://github.com/Commbocc/hccdms#prerequisites)), browse to the <a href="http://www.hillsboroughcdms.org/gap/grants" target="_blank">Grant Awards & Proposals</a> page. In the far right column of the Grants table select the "Edit" link of the Grant you wish to edit.
+Once logged in (see [prerequisites](https://github.com/Commbocc/hccdms#prerequisites)), browse to the <a href="http://www.hillsboroughcdms.org/gap/grants" target="_blank">Grant Awards & Proposals</a> page. In the far right column of the grants table select the "Edit" link of the grant you wish to edit.
 
 Fill out the form with any desired changes.
 
-Click the "Update Grant" button below the form to save the Grant to the database.
+Click the "Update Grant" button below the form to save the grant to the database.
 
 ### Removing an Existing Grant
-Once logged in (see [prerequisites](https://github.com/Commbocc/hccdms#prerequisites)), browse to the <a href="http://www.hillsboroughcdms.org/gap/grants" target="_blank">Grant Awards & Proposals</a> page. In the far right column of the Grants table select the "Destroy" link of the Grant you wish to delete. A prompt will display asking you to confirm this action.
+Once logged in (see [prerequisites](https://github.com/Commbocc/hccdms#prerequisites)), browse to the <a href="http://www.hillsboroughcdms.org/gap/grants" target="_blank">Grant Awards & Proposals</a> page. In the far right column of the grants table select the "Destroy" link of the grant you wish to delete. A prompt will display asking you to confirm this action.
 
 ## Managing Blue Ribbon Database Models
 
