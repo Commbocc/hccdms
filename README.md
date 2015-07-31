@@ -20,6 +20,8 @@ Once logged in (see [prerequisites](https://github.com/Commbocc/hccdms#prerequis
 
 Fill out the form with the necessary information.
 
+![GAP Grant Form](https://raw.githubusercontent.com/Commbocc/hccdms/master/images/gap-grant-form.png "GAP Grant Form")
+
 Click the "Create Grant" button below the form to save the Grant to the database.
 
 ### Editing an Existing Grant
