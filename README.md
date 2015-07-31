@@ -3,12 +3,15 @@
 [http://www.hillsboroughcdms.org/](http://www.hillsboroughcdms.org/)
 
 ## Prerequisites
+You will need:
 
 * A Google account
 
 Access the administrative interface by [logging in with a Google account](http://www.hillsboroughcdms.org/users/auth/google_oauth2).
 
-[Notify Hillsborough County Web Requests](mailto:WebRequest@hillsboroughcounty.org) that you have registered. **Be sure to include the email address of your Google account in the message body as well as what features of the site your are trying to access**.
+> A link to Log in/out is found in the footer of all pages.
+
+[Notify Hillsborough County Web Requests](mailto:WebRequest@hillsboroughcounty.org) that you have registered. **Be sure to include the email address of your Google account in the message body as well as what features of the site you are trying to access**.
 
 ## Grant Awards & Proposals
 
