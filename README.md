@@ -15,6 +15,8 @@ Access the administrative interface by <a href="http://www.hillsboroughcdms.org/
 
 ## Grant Awards & Proposals
 
+<a href="http://www.hillsboroughcdms.org/gap/grants" target="_blank">http://www.hillsboroughcdms.org/gap/grants</a>
+
 ### Adding a New Grant
 Once logged in (see [prerequisites](https://github.com/Commbocc/hccdms#prerequisites)), browse to the <a href="http://www.hillsboroughcdms.org/gap/grants" target="_blank">Grant Awards & Proposals</a> page. In the upper right corner, adjacent to the page title, click "New Grant" to begin adding a grant to the database.
 
