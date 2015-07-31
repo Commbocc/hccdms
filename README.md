@@ -1,6 +1,6 @@
 # Hillsborough County Communications & Digital Media Services
 
-[http://www.hillsboroughcdms.org/](http://www.hillsboroughcdms.org/)
+<a href="http://www.hillsboroughcdms.org" target="_blank">http://www.hillsboroughcdms.org</a>
 
 ## Contents
 
