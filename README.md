@@ -69,6 +69,8 @@ Click the "Update Grant" button below the form to save the grant to the database
 * Budget
 * FY (Fiscal Year)
 
+![In Place Editing](https://raw.githubusercontent.com/Commbocc/hccdms/master/images/gap-grant-in-place-editing.png "In Place Editing")
+
 ### Removing an Existing Grant
 Once logged in (see [prerequisites](https://github.com/Commbocc/hccdms#prerequisites)), browse to the <a href="http://www.hillsboroughcdms.org/gap/grants" target="_blank">Grant Awards & Proposals</a> page. In the far right column of the grants table select the "Destroy" link of the grant you wish to delete. A prompt will display asking you to confirm this action.
 
