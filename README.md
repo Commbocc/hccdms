@@ -66,6 +66,8 @@ Once logged in (see [prerequisites](https://github.com/Commbocc/hccdms#prerequis
 
 ## Managing Blue Ribbon Database Models
 
+<a href="http://www.hillsboroughcdms.org/blue-ribbon" target="_blank">http://www.hillsboroughcdms.org/blue-ribbon</a>
+
 ### Members
 Coming soon.
 
@@ -73,4 +75,7 @@ Coming soon.
 Coming soon.
 
 ## Managing Farmer's Markets
+
+<a href="http://www.hillsboroughcdms.org/econ-dev/farmers-markets" target="_blank">http://www.hillsboroughcdms.org/econ-dev/farmers-markets</a>
+
 Coming soon.
