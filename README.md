@@ -7,7 +7,7 @@ You will need:
 
 * A Google account
 
-Access the administrative interface by [logging in with a Google account](http://www.hillsboroughcdms.org/users/auth/google_oauth2).
+Access the administrative interface by <a href="http://www.hillsboroughcdms.org/users/auth/google_oauth2" target="_blank">logging in with a Google account</a>.
 
 > A link to Log in/out is found in the footer of all pages.
 
