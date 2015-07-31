@@ -27,7 +27,7 @@ Click the "Create Employee" button below the form to save the employee to the da
 ### Sorting Media Contacts
 Once logged in (see [prerequisites](https://github.com/Commbocc/hccdms#prerequisites)), browse to the <a href="http://www.hillsboroughcdms.org/employees" target="_blank">Media Contacts</a> page. In the upper right corner, adjacent to the page title, click "Sort Employees" to launch the sort modal.
 
-Drag and drop the employees to the desired order. Click the "Close" button to close the modal dialog.
+Drag and drop the employees to the desired order. Click the "Close" button to close the modal dialog. This will refresh the page to reflect the new order.
 
 ### Editing a Media Contact
 Once logged in (see [prerequisites](https://github.com/Commbocc/hccdms#prerequisites)), browse to the <a href="http://www.hillsboroughcdms.org/employees" target="_blank">Media Contacts</a> page. In the far left column of the Employees table select the pencil icon next to the employee you wish to edit.
