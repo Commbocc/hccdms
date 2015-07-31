@@ -63,7 +63,7 @@ Click the "Update Grant" button below the form to save the grant to the database
 
 #### Alternate Editing Method
 
-> Edits can be made to the columns listed below directly from the Grants Index Table by clicking on the value in the table. Once selected an input field will appear; to adjust the value, simply replace it and press the Return key on your keyboard.
+Edits can be made to the columns listed below directly from the Grants Index Table by clicking on the value in the table. Once selected an input field will appear; to adjust the value, simply replace it and press the Return key on your keyboard.
 
 * Name
 * Budget
