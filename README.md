@@ -29,14 +29,14 @@ Once logged in (see [prerequisites](https://github.com/Commbocc/hccdms#prerequis
 
 Drag and drop the employees to the desired order. Click the "Close" button to close the modal dialog.
 
-### Editing a New Media Contact
+### Editing a Media Contact
 Once logged in (see [prerequisites](https://github.com/Commbocc/hccdms#prerequisites)), browse to the <a href="http://www.hillsboroughcdms.org/employees" target="_blank">Media Contacts</a> page. In the far left column of the Employees table select the pencil icon next to the employee you wish to edit.
 
 Fill out the form with any desired changes.
 
 Click the "Update Employee" button below the form to save the employee to the database.
 
-### Removing a New Media Contact
+### Removing a Media Contact
 Once logged in (see [prerequisites](https://github.com/Commbocc/hccdms#prerequisites)), browse to the <a href="http://www.hillsboroughcdms.org/employees" target="_blank">Media Contacts</a> page. In the far left column of the Employees table select the pencil icon next to the employee you wish to edit.
 
 Click the "Destroy" link below the form to delete the employee from the database. A prompt will display asking you to confirm this action.
