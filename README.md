@@ -61,6 +61,14 @@ Fill out the form with any desired changes.
 
 Click the "Update Grant" button below the form to save the grant to the database.
 
+#### Alternate Editing Method
+
+> Edits can be made to the columns listed below directly from the Grants Index Table by clicking on the value in the table. Once selected an input field will appear. To adjust the value, simply replace it and press the Return key on your keyboard.
+
+* Name
+* Budget
+* FY (Fiscal Year)
+
 ### Removing an Existing Grant
 Once logged in (see [prerequisites](https://github.com/Commbocc/hccdms#prerequisites)), browse to the <a href="http://www.hillsboroughcdms.org/gap/grants" target="_blank">Grant Awards & Proposals</a> page. In the far right column of the grants table select the "Destroy" link of the grant you wish to delete. A prompt will display asking you to confirm this action.
 
