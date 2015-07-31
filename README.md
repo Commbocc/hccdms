@@ -2,6 +2,11 @@
 
 [http://www.hillsboroughcdms.org/](http://www.hillsboroughcdms.org/)
 
+* [Managing Media Contacts](https://github.com/Commbocc/hccdms#managing-media-contacts)
+* [Managing Grant Awards & Proposals](https://github.com/Commbocc/hccdms#managing-grant-awards--proposals)
+* Managing Blue Ribbon Database Models
+* Managing Farmer's Markets
+
 ## Prerequisites
 You will need:
 
